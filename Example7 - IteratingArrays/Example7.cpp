@@ -22,7 +22,7 @@ int main()
 	// Loop over the array again this time printing out each value
 	for (int i = 0; i < 10; i++)
 	{
-		std::cout << "RandomNumberArray[" << i << "] = " << RandomNumberArray[i] << endl;
+		std::cout << "RandomNumberArray[" << i << "] = " << RandomNumberArray[i] << std::endl;
 	}
 }
 
