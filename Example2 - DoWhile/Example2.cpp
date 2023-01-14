@@ -26,8 +26,8 @@ int main()
 			std::cout << "That number is not between 10 and 20, please try again." << std::endl;
 		}
 
-	} while (!isValid); // Continue loop as long as isValid == false
+	} while (!isValid); // Keep looping while isValid is false
 
-	// Final message printed now the loop is over
+	// Print a final message now the loop is complete
 	std::cout << "Thanks for entering " << numEntered << ", that number is between 10 and 20." << std::endl;
 }

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33027.164
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example 2 - Do While Loops", "Example2 - DoWhile\Example2 - DoWhile.vcxproj", "{A87E5A83-6B03-4EF0-AE7A-9D3C6936CC15}"
 EndProject
@@ -14,10 +14,6 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example 6 - Initialising Arrays", "Example6 - InitialisingArrays\Example6 - InitialisingArrays.vcxproj", "{0686D059-0BF5-4E8D-BDC6-4271796D0D8B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example 7 - Iterating Arrays", "Example7 - IteratingArrays\Example7 - IteratingArrays.vcxproj", "{66744E32-5A2A-46A5-A42F-D94F712DC00F}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example 8 - Save To File", "Example8 - FileHandling\Example8 - FileHandling.vcxproj", "{6E213524-DDDA-4E66-A4DA-2446934B7FFB}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example 9 - Load From File", "Example9 - LoadFromFile\Example 9 - Load From File.vcxproj", "{DF651383-FB79-49DF-AF5B-EC66B0F41009}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example 1 - While Loops", "Example1 - WhileLoops\Example1.vcxproj", "{9B44193A-15D5-491D-A5B9-9969112C1E90}"
 EndProject
@@ -77,22 +73,6 @@ Global
 		{66744E32-5A2A-46A5-A42F-D94F712DC00F}.Release|x64.Build.0 = Release|x64
 		{66744E32-5A2A-46A5-A42F-D94F712DC00F}.Release|x86.ActiveCfg = Release|Win32
 		{66744E32-5A2A-46A5-A42F-D94F712DC00F}.Release|x86.Build.0 = Release|Win32
-		{6E213524-DDDA-4E66-A4DA-2446934B7FFB}.Debug|x64.ActiveCfg = Debug|x64
-		{6E213524-DDDA-4E66-A4DA-2446934B7FFB}.Debug|x64.Build.0 = Debug|x64
-		{6E213524-DDDA-4E66-A4DA-2446934B7FFB}.Debug|x86.ActiveCfg = Debug|Win32
-		{6E213524-DDDA-4E66-A4DA-2446934B7FFB}.Debug|x86.Build.0 = Debug|Win32
-		{6E213524-DDDA-4E66-A4DA-2446934B7FFB}.Release|x64.ActiveCfg = Release|x64
-		{6E213524-DDDA-4E66-A4DA-2446934B7FFB}.Release|x64.Build.0 = Release|x64
-		{6E213524-DDDA-4E66-A4DA-2446934B7FFB}.Release|x86.ActiveCfg = Release|Win32
-		{6E213524-DDDA-4E66-A4DA-2446934B7FFB}.Release|x86.Build.0 = Release|Win32
-		{DF651383-FB79-49DF-AF5B-EC66B0F41009}.Debug|x64.ActiveCfg = Debug|x64
-		{DF651383-FB79-49DF-AF5B-EC66B0F41009}.Debug|x64.Build.0 = Debug|x64
-		{DF651383-FB79-49DF-AF5B-EC66B0F41009}.Debug|x86.ActiveCfg = Debug|Win32
-		{DF651383-FB79-49DF-AF5B-EC66B0F41009}.Debug|x86.Build.0 = Debug|Win32
-		{DF651383-FB79-49DF-AF5B-EC66B0F41009}.Release|x64.ActiveCfg = Release|x64
-		{DF651383-FB79-49DF-AF5B-EC66B0F41009}.Release|x64.Build.0 = Release|x64
-		{DF651383-FB79-49DF-AF5B-EC66B0F41009}.Release|x86.ActiveCfg = Release|Win32
-		{DF651383-FB79-49DF-AF5B-EC66B0F41009}.Release|x86.Build.0 = Release|Win32
 		{9B44193A-15D5-491D-A5B9-9969112C1E90}.Debug|x64.ActiveCfg = Debug|x64
 		{9B44193A-15D5-491D-A5B9-9969112C1E90}.Debug|x64.Build.0 = Debug|x64
 		{9B44193A-15D5-491D-A5B9-9969112C1E90}.Debug|x86.ActiveCfg = Debug|Win32
